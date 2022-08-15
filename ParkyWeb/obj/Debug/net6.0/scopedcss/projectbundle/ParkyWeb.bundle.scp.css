@@ -1,0 +1,49 @@
+/* _content/ParkyWeb/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-vo7bcj7qja] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-vo7bcj7qja] {
+  color: #0077cc;
+}
+
+.btn-primary[b-vo7bcj7qja] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-vo7bcj7qja], .nav-pills .show > .nav-link[b-vo7bcj7qja] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-vo7bcj7qja] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-vo7bcj7qja] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-vo7bcj7qja] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-vo7bcj7qja] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-vo7bcj7qja] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
